@@ -1,6 +1,6 @@
 # Streamlit OpenAI Chatbot
 
-This repo contains the completed code for the YouTube tutorial video <a href="#">From Zero to Hero: Creating a Chatbot with Streamlit & OpenAI</a>
+This repo contains the starter_project template code for the YouTube tutorial video <a href="#">From Zero to Hero: Creating a Chatbot with Streamlit & OpenAI</a>
 
 Clone starter_project branch by running the below command
 
