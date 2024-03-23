@@ -11,4 +11,4 @@ git clone -b starter_project --single-branch https://github.com/DevTechBytes/Str
 - Ability to select OpenAI GPT model
 - Set model temperature
 - Set model max token length
-- Streaming out when responding to user like ChatGPT
+- Streaming output when responding to user like ChatGPT
