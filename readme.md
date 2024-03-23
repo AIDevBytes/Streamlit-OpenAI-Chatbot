@@ -8,7 +8,7 @@ Clone starter_project branch by running the below command
 git clone -b starter_project --single-branch https://github.com/DevTechBytes/Streamlit-OpenAI-Chatbot
 `
 ### Chatbot Features include:
-- Ability to select OpenAI GPT model
+- Ability to select different OpenAI GPT models to be used by the chatbot
 - Set model temperature
 - Set model max token length
 - Streaming output when responding to user like ChatGPT
